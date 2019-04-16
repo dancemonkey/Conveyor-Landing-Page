@@ -51,9 +51,9 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github: https://github.com/dancemonkey/
+  github: dancemonkey
   facebook: 
-  twitter: https://twitter.com/drewlanning
+  twitter: drewlanning
   pinterest:
   instagram:
   email: dance.monkey+conveyor@gmail.com
