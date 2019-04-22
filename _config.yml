@@ -42,8 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: More Doing, Less Fiddling
+marketing_desc: Conveyor simplifies the process of creating and managing your to-do lists. Instead of fiddling with due dates, times, tags, and categories you just add a task to one of three lists: Today, Tomorrow, or Later. Every day the tasks moves themselves from list to list (Later -> Tomorrow -> Today, but you can lock items if you need a few extra days before something comes due). Siri integration and a Today widget make adding items and managing your lists easy.
 
 #
 # Social Links
